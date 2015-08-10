@@ -1,7 +1,7 @@
-package com.mindhackers.mqtt_client_sample;
+package com.mindhackers.mqtt.client;
 
 import com.google.gson.Gson;
-import com.mindhackers.mqtt_client_sample.model.Content;
+import com.mindhackers.mqtt.client.model.Content;
 
 public class JsonDataFactory {
 	public static String getJson(Content content){

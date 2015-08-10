@@ -1,4 +1,4 @@
-package com.mindhackers.mqtt_client_sample;
+package com.mindhackers.mqtt.client;
 
 import org.eclipse.paho.client.mqttv3.MqttClient;
 import org.eclipse.paho.client.mqttv3.MqttConnectOptions;
@@ -6,9 +6,9 @@ import org.eclipse.paho.client.mqttv3.MqttException;
 import org.eclipse.paho.client.mqttv3.MqttMessage;
 import org.eclipse.paho.client.mqttv3.persist.MemoryPersistence;
 
-import com.mindhackers.mqtt_client_sample.model.Content;
-import com.mindhackers.mqtt_client_sample.model.GeoPoint;
-import com.mindhackers.mqtt_client_sample.model.Shot;
+import com.mindhackers.mqtt.client.model.Content;
+import com.mindhackers.mqtt.client.model.GeoPoint;
+import com.mindhackers.mqtt.client.model.Shot;
 
 /**
  * Hello world!

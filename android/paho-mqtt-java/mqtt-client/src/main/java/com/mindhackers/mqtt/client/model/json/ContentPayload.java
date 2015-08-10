@@ -1,4 +1,4 @@
-package com.mindhackers.mqtt_client_sample.model.json;
+package com.mindhackers.mqtt.client.model.json;
 
 
 @Deprecated

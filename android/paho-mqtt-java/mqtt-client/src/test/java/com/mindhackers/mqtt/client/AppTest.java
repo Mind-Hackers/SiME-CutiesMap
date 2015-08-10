@@ -1,4 +1,4 @@
-package com.mindhackers.mqtt_client_sample;
+package com.mindhackers.mqtt.client;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

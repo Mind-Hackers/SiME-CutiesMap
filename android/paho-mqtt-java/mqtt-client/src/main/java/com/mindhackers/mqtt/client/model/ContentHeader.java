@@ -1,4 +1,4 @@
-package com.mindhackers.mqtt_client_sample.model;
+package com.mindhackers.mqtt.client.model;
 
 public class ContentHeader {
 	
